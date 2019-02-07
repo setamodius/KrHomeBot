@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "KrHomeBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TelegramApi": "775242760:AAErvhI5b8kKl6WoX-yzYzX56W-I4hiIbIg",
+        "MqttClientId": "botclient",
+        "MqttUsername": "master",
+        "MqttPassword": "123",
+        "MqttServer": "broker.kerembilgicer.com"
+      }
+    }
+  }
+}
